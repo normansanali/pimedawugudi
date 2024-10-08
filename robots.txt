@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://pimedawugudi.pages.dev/sitemap.xml
